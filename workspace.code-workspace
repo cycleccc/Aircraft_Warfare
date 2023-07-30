@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"set": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"future": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"ostream": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"regex": "cpp",
+			"tuple": "cpp",
+			"valarray": "cpp",
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"map": "cpp",
+			"string_view": "cpp"
+		},
+		"code-runner.saveAllFilesBeforeRun": true,
+		"code-runner.saveFileBeforeRun": true
+	}
+}
